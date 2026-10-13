@@ -1,0 +1,8 @@
+file,model,ground_truth,prediction,confidence,hypothesis
+Bengal_134.jpg,B5_efficientnetb0_aug,bengal,abyssinian,0.996,ISI SENDIRI
+Siamese_185.jpg,B5_efficientnetb0_aug,siamese,birman,0.8517,ISI SENDIRI
+Siamese_240.jpg,B5_efficientnetb0_aug,siamese,birman,0.7541,ISI SENDIRI
+Abyssinian_215.jpg,B5_efficientnetb0_aug,abyssinian,bengal,0.7489,ISI SENDIRI
+Birman_91.jpg,B5_efficientnetb0_aug,birman,siamese,0.5543,ISI SENDIRI
+Birman_51.jpg,B5_efficientnetb0_aug,birman,siamese,0.5247,ISI SENDIRI
+shiba_inu_156.jpg,B5_efficientnetb0_aug,shiba inu,beagle,0.4256,ISI SENDIRI
